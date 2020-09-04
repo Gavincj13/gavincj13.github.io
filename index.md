@@ -1,4 +1,5 @@
 Welcome to Connor's Website!
+ISAT 252 Personal Website Assignment
 
 You can use the [editor on GitHub](https://github.com/Gavincj13/gavincj13.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 

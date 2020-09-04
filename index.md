@@ -3,7 +3,6 @@
 A website for you to learn more about me.
 
 
-![Connor Fishing](https://github.com/Gavincj13/gavincj13.github.io/blob/master/Picture%206.jpg)
 
 <a href="https://gyazo.com/bd1bc75d908349c8baebd95a607abf4c"><img src="https://i.gyazo.com/bd1bc75d908349c8baebd95a607abf4c.png" alt="Image from Gyazo" width="440.8"/></a>
 

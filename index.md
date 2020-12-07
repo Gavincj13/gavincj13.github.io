@@ -21,5 +21,8 @@ This is the first thing that I have coded, it is just a simple Hello World! prog
 
 *[Link to the Hello World Python](https://github.com/Gavincj13/hello-world-python)
 
+## MPG to KPL Unit Converion Using Python 
 
+This was the first coding challenge that we did, it is a unit conversion from MPG to KPL. It is a simple, introductory program to get an input/output on the command line. This code was written using Python. 
 
+*[Link to the MPG to KPL Unit Conversion Python].(https://github.com/Gavincj13/mpg2kpl)

@@ -32,3 +32,9 @@ This was the first coding challenge that we did, it is a unit conversion from MP
 This is a unit conversion library that contains 4 conversions. This was the first time using TDD and implementing that into the process of creating the code. This code was written with Python. 
 
 *[Link to the Python Unit Conversion Library Using TDD](https://github.com/Gavincj13/converters-tdd)
+
+## Rock-Paper-Scissors Game using Python
+
+This is a terminal-based Rock-Paper-Scissors game using python. This game contains 2 versions, one being the traditional version of the game, and the other being the new version Rock-Paper-Scissors-Lizard-Spock taken from the tv show The Big Bang Theory. I learned this code through a walkthrough from the website AskPython. 
+
+*[Link to the Rock-Paper-Scissors Game using Python](https://github.com/Gavincj13/rock-paper-scissors-python)

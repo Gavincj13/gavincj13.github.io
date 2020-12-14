@@ -11,7 +11,7 @@ A website for you to learn more about me.
 
 I am currently a sophmore at James Madison University. I am studying ISAT and plan on concentrating on Environment and Production Systems. Some of my favorite hobbies include working out, fishing, and hunting. I am from Midlothian, VA, which is around 30 minutes outside of Richmond, VA. I am looking forward to this semester, and I am excited to learn more about coding!
 
-## ISAT 252 Final Narrative 
+### ISAT 252 Final Narrative 
 
 This is the final narrative about my time in ISAT 252 this semester. I really enjoyed this class and am excited to take what I have learned with me onto next semester!
 
